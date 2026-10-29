@@ -1,0 +1,30 @@
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.ViewModels.deps.json
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.ViewModels.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.Core.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.Core.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.csproj.AssemblyReference.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.AssemblyInfoInputs.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.AssemblyInfo.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKee.9B15E7C5.Up2Date
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\refint\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.ViewModels\obj\Debug\net8.0\ref\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.ViewModels.deps.json
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.ViewModels.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.Core.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\bin\Debug\net8.0\HotelKeeper.Core.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.csproj.AssemblyReference.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.AssemblyInfoInputs.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.AssemblyInfo.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKee.9B15E7C5.Up2Date
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\refint\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\HotelKeeper.ViewModels.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.ViewModels\obj\Debug\net8.0\ref\HotelKeeper.ViewModels.dll

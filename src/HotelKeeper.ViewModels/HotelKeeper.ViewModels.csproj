@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+ 
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>HotelKeeper.ViewModels</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelKeeper.Core\HotelKeeper.Core.csproj" />
+  </ItemGroup>
+
+</Project>

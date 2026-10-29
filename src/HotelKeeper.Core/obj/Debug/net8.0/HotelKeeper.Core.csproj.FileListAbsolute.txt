@@ -1,0 +1,24 @@
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\bin\Debug\net8.0\HotelKeeper.Core.deps.json
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\bin\Debug\net8.0\HotelKeeper.Core.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\bin\Debug\net8.0\HotelKeeper.Core.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.csproj.AssemblyReference.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.AssemblyInfoInputs.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.AssemblyInfo.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.csproj.CoreCompileInputs.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\refint\HotelKeeper.Core.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.Core\obj\Debug\net8.0\ref\HotelKeeper.Core.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\bin\Debug\net8.0\HotelKeeper.Core.deps.json
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\bin\Debug\net8.0\HotelKeeper.Core.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\bin\Debug\net8.0\HotelKeeper.Core.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.csproj.AssemblyReference.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.AssemblyInfoInputs.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.AssemblyInfo.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.csproj.CoreCompileInputs.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\refint\HotelKeeper.Core.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\HotelKeeper.Core.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.Core\obj\Debug\net8.0\ref\HotelKeeper.Core.dll

@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\HotelKeeper.App",
+    "\\src\\HotelKeeper.App\\Resources",
+    "\\src\\HotelKeeper.App\\Resources\\Styles",
+    "\\src\\HotelKeeper.App\\Views",
+    "\\src\\HotelKeeper.App\\Views\\Guest",
+    "\\src\\HotelKeeper.Core",
+    "\\src\\HotelKeeper.Core\\Services",
+    "\\src\\HotelKeeper.Core\\ViewModels",
+    "\\src\\HotelKeeper.Core\\ViewModels\\Admin"
+  ],
+  "SelectedNode": "\\src\\HotelKeeper.Core\\Services\\RoomService.cs",
+  "PreviewInSolutionExplorer": false
+}

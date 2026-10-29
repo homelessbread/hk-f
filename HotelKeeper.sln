@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelKeeper.Core", "src\HotelKeeper.Core\HotelKeeper.Core.csproj", "{EC744C37-2E62-460A-B2FA-C89C538D063C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelKeeper.ViewModels", "src\HotelKeeper.ViewModels\HotelKeeper.ViewModels.csproj", "{CD41EA8B-175B-4303-A947-4C5ACF594811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelKeeper.App", "src\HotelKeeper.App\HotelKeeper.App.csproj", "{888CFF94-F480-44F2-8158-1602B8BCFF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC744C37-2E62-460A-B2FA-C89C538D063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC744C37-2E62-460A-B2FA-C89C538D063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC744C37-2E62-460A-B2FA-C89C538D063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC744C37-2E62-460A-B2FA-C89C538D063C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD41EA8B-175B-4303-A947-4C5ACF594811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD41EA8B-175B-4303-A947-4C5ACF594811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD41EA8B-175B-4303-A947-4C5ACF594811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD41EA8B-175B-4303-A947-4C5ACF594811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888CFF94-F480-44F2-8158-1602B8BCFF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888CFF94-F480-44F2-8158-1602B8BCFF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888CFF94-F480-44F2-8158-1602B8BCFF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888CFF94-F480-44F2-8158-1602B8BCFF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

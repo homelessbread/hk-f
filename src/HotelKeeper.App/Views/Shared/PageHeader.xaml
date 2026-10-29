@@ -1,0 +1,22 @@
+<UserControl x:Class="HotelKeeper.App.Views.Shared.PageHeader"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- DataContext is a PageViewModel: title, description, refresh, banners and the loading bar. -->
+    <StackPanel>
+        <Grid Margin="0,2,0,14">
+            <Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+            <StackPanel>
+                <TextBlock Text="{Binding Title}" Style="{StaticResource PageTitle}"/>
+                <TextBlock Text="{Binding Description}" Style="{StaticResource Muted}" TextWrapping="Wrap" Margin="0,3,0,0"/>
+            </StackPanel>
+            <Button Grid.Column="1" Content="Refresh" Style="{StaticResource Btn}" Command="{Binding RefreshCommand}" VerticalAlignment="Top" Margin="12,6,0,0"/>
+        </Grid>
+        <ProgressBar IsIndeterminate="True" Height="4" Margin="0,0,0,10" Visibility="{Binding IsBusy, Converter={StaticResource BoolToVis}}"/>
+        <Border Style="{StaticResource ErrorBanner}" Visibility="{Binding HasError, Converter={StaticResource BoolToVis}}">
+            <TextBlock Text="{Binding ErrorMessage}" TextWrapping="Wrap" Foreground="{StaticResource DangerBrush}"/>
+        </Border>
+        <Border Style="{StaticResource OkBanner}" Visibility="{Binding HasStatus, Converter={StaticResource BoolToVis}}">
+            <TextBlock Text="{Binding StatusMessage}" TextWrapping="Wrap"/>
+        </Border>
+    </StackPanel>
+</UserControl>

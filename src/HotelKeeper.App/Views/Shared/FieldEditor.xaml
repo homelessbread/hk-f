@@ -1,0 +1,19 @@
+<UserControl x:Class="HotelKeeper.App.Views.Shared.FieldEditor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- DataContext is a FormField. Shows the right input for its kind. -->
+    <StackPanel Margin="0,0,0,12">
+        <TextBlock Text="{Binding Label}" Style="{StaticResource Muted}" Margin="0,0,0,4"/>
+        <TextBox Text="{Binding Text, UpdateSourceTrigger=PropertyChanged}" Visibility="{Binding IsText, Converter={StaticResource BoolToVis}}"/>
+        <TextBox Text="{Binding Text, UpdateSourceTrigger=PropertyChanged}" AcceptsReturn="True" TextWrapping="Wrap" MinHeight="70" VerticalScrollBarVisibility="Auto"
+                 Visibility="{Binding IsMultiline, Converter={StaticResource BoolToVis}}"/>
+        <PasswordBox x:Name="Pwd" PasswordChanged="Pwd_PasswordChanged" Visibility="{Binding IsPassword, Converter={StaticResource BoolToVis}}"/>
+        <DatePicker SelectedDate="{Binding Date, Mode=TwoWay}" Visibility="{Binding IsDate, Converter={StaticResource BoolToVis}}"/>
+        <ComboBox ItemsSource="{Binding Choices}" SelectedItem="{Binding Selected, Mode=TwoWay}" DisplayMemberPath="Label"
+                  Visibility="{Binding IsCombo, Converter={StaticResource BoolToVis}}"/>
+        <CheckBox Content="{Binding Label}" IsChecked="{Binding Checked, Mode=TwoWay}" Visibility="{Binding IsCheck, Converter={StaticResource BoolToVis}}"/>
+        <TextBlock Text="{Binding Text}" TextWrapping="Wrap" FontWeight="SemiBold" Visibility="{Binding IsInfo, Converter={StaticResource BoolToVis}}"/>
+        <TextBlock Text="{Binding Hint}" Style="{StaticResource Muted}" FontSize="11" Margin="0,3,0,0" TextWrapping="Wrap" Visibility="{Binding Hint, Converter={StaticResource TextToVis}}"/>
+        <TextBlock Text="{Binding Error}" Foreground="{StaticResource DangerBrush}" FontSize="12" Margin="0,3,0,0" Visibility="{Binding HasError, Converter={StaticResource BoolToVis}}"/>
+    </StackPanel>
+</UserControl>

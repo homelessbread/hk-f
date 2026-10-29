@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>HotelKeeper.App</RootNamespace>
+    <AssemblyName>HotelKeeper</AssemblyName>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelKeeper.ViewModels\HotelKeeper.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\appsettings.json" Link="appsettings.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\appsettings.local.json" Link="appsettings.local.json" CopyToOutputDirectory="PreserveNewest" Condition="Exists('..\..\appsettings.local.json')" />
+  </ItemGroup>
+
+</Project>

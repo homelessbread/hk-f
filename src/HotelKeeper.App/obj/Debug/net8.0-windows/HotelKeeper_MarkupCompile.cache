@@ -1,0 +1,20 @@
+﻿HotelKeeper
+
+
+winexe
+C#
+.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\
+HotelKeeper.App
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP1_0_OR_GREATER;NETCOREAPP1_1_OR_GREATER;NETCOREAPP2_0_OR_GREATER;NETCOREAPP2_1_OR_GREATER;NETCOREAPP2_2_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\App.xaml
+14311705576
+2-315697692
+15-1979508558
+204-1690051846
+Resources\Icons\Icons.xaml;Resources\Styles\Theme.Dark.xaml;Resources\Styles\Theme.Light.xaml;Resources\Styles\Theme.xaml;Views\FormPageView.xaml;Views\Shared\DashboardPageView.xaml;Views\Shared\FieldEditor.xaml;Views\Shared\ListPageView.xaml;Views\Shared\LoginWindow.xaml;Views\Shared\MessageDialog.xaml;Views\Shared\PageHeader.xaml;Views\Shared\Receptionist\FormDialog.xaml;Views\Shared\TitleBar.xaml;Views\ShellWindow.xaml;
+
+False
+

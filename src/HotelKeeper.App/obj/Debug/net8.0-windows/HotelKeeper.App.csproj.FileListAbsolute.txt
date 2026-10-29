@@ -1,0 +1,170 @@
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.exe
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.deps.json
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.runtimeconfig.json
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.Core.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.ViewModels.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.Core.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.csproj.AssemblyReference.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Icons\Icons.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Styles\Theme.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FieldEditor.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\MessageDialog.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\PageHeader.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\ShellWindow.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\DashboardPageView.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FieldEditor.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FormDialog.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FormPageView.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\ListPageView.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\MessageDialog.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\PageHeader.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\ShellWindow.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper_Content.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper_MarkupCompile.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper_MarkupCompile.lref
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\App.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\DashboardPageView.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FormDialog.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FormPageView.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\ListPageView.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.g.resources
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.AssemblyInfoInputs.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.AssemblyInfo.cs
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.csproj.CoreCompileInputs.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKee.DB039314.Up2Date
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\refint\HotelKeeper.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.pdb
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.genruntimeconfig.cache
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\ref\HotelKeeper.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\appsettings.local.json
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Styles\Theme.Dark.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Styles\Theme.Light.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\System.Reflection.Metadata.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\TitleBar.baml
+C:\Users\crumbs\Downloads\HK\HotelKeeper\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\TitleBar.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\appsettings.local.json
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.exe
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.deps.json
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.runtimeconfig.json
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\System.Reflection.Metadata.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.Core.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.ViewModels.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.ViewModels.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\bin\Debug\net8.0-windows\HotelKeeper.Core.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.csproj.AssemblyReference.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Icons\Icons.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Styles\Theme.Dark.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Styles\Theme.Light.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Resources\Styles\Theme.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FieldEditor.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\MessageDialog.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\PageHeader.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\TitleBar.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\ShellWindow.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\DashboardPageView.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\FieldEditor.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\ListPageView.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\MessageDialog.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\PageHeader.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\TitleBar.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\ShellWindow.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper_Content.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper_MarkupCompile.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper_MarkupCompile.lref
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\App.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\DashboardPageView.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\ListPageView.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.g.resources
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.AssemblyInfoInputs.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.AssemblyInfo.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.csproj.CoreCompileInputs.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKee.DB039314.Up2Date
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\refint\HotelKeeper.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.pdb
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\HotelKeeper.App.genruntimeconfig.cache
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\ref\HotelKeeper.dll
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\LoginWindow.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\FormPageView.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\LoginWindow.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\Receptionist\FormDialog.g.cs
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\FormPageView.baml
+C:\Users\crumbs\Documents\HK -f\src\HotelKeeper.App\obj\Debug\net8.0-windows\Views\Shared\Receptionist\FormDialog.baml

@@ -1,0 +1,22 @@
+<Window x:Class="HotelKeeper.App.Views.Shared.FormDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:v="clr-namespace:HotelKeeper.App.Views.Shared"
+        Title="{Binding Title}" Width="460" SizeToContent="Height" MaxHeight="760"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize" ShowInTaskbar="False">
+    <Grid Margin="24">
+        <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+        <TextBlock Text="{Binding Title}" Style="{StaticResource SectionTitle}" FontSize="20"/>
+        <TextBlock Grid.Row="1" Text="{Binding Message}" Style="{StaticResource Muted}" TextWrapping="Wrap" Margin="0,6,0,14"
+                   Visibility="{Binding Message, Converter={StaticResource TextToVis}}"/>
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto" Margin="0,4,0,0">
+            <ItemsControl ItemsSource="{Binding Fields}" Focusable="False">
+                <ItemsControl.ItemTemplate><DataTemplate><v:FieldEditor/></DataTemplate></ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,12,0,0">
+            <Button Content="Cancel" Style="{StaticResource Btn}" IsCancel="True" MinWidth="90"/>
+            <Button x:Name="OkButton" Content="{Binding OkText}" Style="{StaticResource PrimaryBtn}" IsDefault="True" MinWidth="110" Margin="0" Click="Ok_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
